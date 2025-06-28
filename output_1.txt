@@ -1,0 +1,6 @@
+Shortest path from node 0:
+to node 0 the distance is: 0
+to node 1 the distance is: 2
+to node 2 the distance is: 3
+to node 3 the distance is: 4
+to node 4 the distance is: 3
